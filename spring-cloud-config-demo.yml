@@ -1,3 +1,3 @@
 app:
-  greeting: "Olá, bem-vindo à aplicação configurada via Spring Cloud Config!"
+  greeting: "editando mensagem"
 
